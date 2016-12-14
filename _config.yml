@@ -16,7 +16,8 @@
 title: Tarik Blog
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Description new
+ New Description
+ sadfsfasda
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://tarikuzunkaya07.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
