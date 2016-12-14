@@ -1,6 +1,6 @@
 ---
 layout: page
-title: İletişim
+title: iletişim
 permalink:/contact
 ---
 <h4>Mail</h4>
