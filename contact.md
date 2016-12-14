@@ -1,7 +1,7 @@
 ---
 layout: page
 title: İletişim
-permalink:/contact
+permalink: /contact
 ---
 
 <h4>Mail</h4>
